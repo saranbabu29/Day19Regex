@@ -1,0 +1,14 @@
+C:\Users\bagav\saran\visual studio\Day19\Day19Regex\bin\Debug\netcoreapp3.1\Day19Regex.exe
+C:\Users\bagav\saran\visual studio\Day19\Day19Regex\bin\Debug\netcoreapp3.1\Day19Regex.deps.json
+C:\Users\bagav\saran\visual studio\Day19\Day19Regex\bin\Debug\netcoreapp3.1\Day19Regex.runtimeconfig.json
+C:\Users\bagav\saran\visual studio\Day19\Day19Regex\bin\Debug\netcoreapp3.1\Day19Regex.runtimeconfig.dev.json
+C:\Users\bagav\saran\visual studio\Day19\Day19Regex\bin\Debug\netcoreapp3.1\Day19Regex.dll
+C:\Users\bagav\saran\visual studio\Day19\Day19Regex\bin\Debug\netcoreapp3.1\Day19Regex.pdb
+C:\Users\bagav\saran\visual studio\Day19\Day19Regex\obj\Debug\netcoreapp3.1\Day19Regex.csproj.AssemblyReference.cache
+C:\Users\bagav\saran\visual studio\Day19\Day19Regex\obj\Debug\netcoreapp3.1\Day19Regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bagav\saran\visual studio\Day19\Day19Regex\obj\Debug\netcoreapp3.1\Day19Regex.AssemblyInfoInputs.cache
+C:\Users\bagav\saran\visual studio\Day19\Day19Regex\obj\Debug\netcoreapp3.1\Day19Regex.AssemblyInfo.cs
+C:\Users\bagav\saran\visual studio\Day19\Day19Regex\obj\Debug\netcoreapp3.1\Day19Regex.csproj.CoreCompileInputs.cache
+C:\Users\bagav\saran\visual studio\Day19\Day19Regex\obj\Debug\netcoreapp3.1\Day19Regex.dll
+C:\Users\bagav\saran\visual studio\Day19\Day19Regex\obj\Debug\netcoreapp3.1\Day19Regex.pdb
+C:\Users\bagav\saran\visual studio\Day19\Day19Regex\obj\Debug\netcoreapp3.1\Day19Regex.genruntimeconfig.cache
